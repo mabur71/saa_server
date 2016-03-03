@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/final.dir/server.cpp.o  -o final -rdynamic 
